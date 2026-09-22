@@ -1,6 +1,7 @@
 # playlist.py
 
 SONGS = [
+    ("Freebird", "Lynard Skynard"),
     ("Imagine", "John Lennon"),
     ("Blinding Lights", "The Weeknd"),
     ("Viva La Vida", "Coldplay"),
